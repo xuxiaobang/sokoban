@@ -1,8 +1,8 @@
-#### 一个推箱子游戏
+### 一个推箱子游戏
 
 推箱子游戏有三个版本:
 
-##### master:
+#### master:
 
 master中为最终版:
 
@@ -12,7 +12,7 @@ master中为最终版:
 
 
 
-##### object:
+#### object:
 
 object中为修改版:
 
@@ -20,7 +20,7 @@ object中为修改版:
 
 
 
-##### function:
+#### function:
 
 function中为初始版:
 
